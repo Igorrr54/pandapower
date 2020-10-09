@@ -1,0 +1,6 @@
+trafo tap_pos nod add voltage
+For control trafo without load.
+If tap_pos =2 or tap_pos=9 trafo LV voltage do not chages.
+Please help me.
+Hi-hi. My solution is to change the trafo LV nominal voltage.
+Note  - After print('0047 trafo=')  next line to change tap_pos.
